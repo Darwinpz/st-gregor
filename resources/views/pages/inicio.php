@@ -24,10 +24,10 @@
                     </div>
                     <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="<?php echo RUTA_URL;?>/img/galeria/galeria_(2).jpg" alt="Imagen 1">
+                        <img class="d-block w-100" src="<?php echo RUTA_URL;?>/img/galeria/galeria_2.jpg" alt="Imagen 1">
                         </div>
                         <div class="carousel-item">
-                        <img class="d-block w-100"  src="<?php echo RUTA_URL;?>/img/galeria/galeria_(4).jpg" alt="Imagen 2">
+                        <img class="d-block w-100"  src="<?php echo RUTA_URL;?>/img/galeria/galeria_4.jpg" alt="Imagen 2">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselIndicators" data-bs-slide="prev">
@@ -116,7 +116,7 @@
 
             <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_(21).jpg">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_21.jpg">
                     <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_(21).jpg" class="img-fluid">
                 </a>
                 
@@ -162,7 +162,7 @@
 
             <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_(33).jpg">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_33.jpg">
                     <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_(33).jpg" class="img-fluid">
                 </a>
             </div>
@@ -173,7 +173,7 @@
 
             <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_(9).jpg">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_9.jpg">
                     <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_(9).jpg" class="img-fluid">
                 </a>
             </div>
@@ -216,7 +216,7 @@
 
             <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_(8).jpg">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_8.jpg">
                     <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_(8).jpg" class="img-fluid">
                 </a>
             </div>
