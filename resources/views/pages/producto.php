@@ -197,7 +197,9 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-12 text-center mt-3 mb-3">
 
-            <img src="<?php echo RUTA_URL;?>/img/caja_presentacion.jpg" alt="Caja de Presentacion" width="80%" class="img-fluid">                
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/caja_presentacion.jpg">
+                <img style="border: 3px solid #B88F23; border-radius:2px;" alt="Caja de Presentacion" src="<?php echo RUTA_URL;?>/img/caja_presentacion.jpg" width="80%" class="img-fluid">
+            </a>               
 
         </div>
 
