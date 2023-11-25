@@ -2,7 +2,7 @@
 
 <div class="container">
 
-    <div class="row">
+    <div class="row mt-2">
 
         <div class="col">
             
