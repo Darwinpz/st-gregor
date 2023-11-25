@@ -51,7 +51,7 @@
                         <img class="img-fluid"  src="<?php echo RUTA_URL;?>/img/instalacion_3.jpg" alt="Imagen 3">
                     </div>
                     <div class="carousel-item">
-                        <img class="img-fluid"  src="<?php echo RUTA_URL;?>/img/instalacion_7.jpg" alt="Imagen 4">
+                        <img class="img-fluid"  src="<?php echo RUTA_URL;?>/img/instalacion_7.jpeg" alt="Imagen 4">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselIndicators" data-bs-slide="prev">
