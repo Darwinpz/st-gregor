@@ -44,7 +44,7 @@
 
                 <div class="card-body">
                     <a data-fslightbox href="<?php echo RUTA_URL;?>/img/prod_frescos.jpg">
-                        <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/producto_2.jpg" class="img-fluid">
+                        <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/prod_frescos.jpg" class="img-fluid">
                     </a>
             
                 </div>
@@ -73,7 +73,7 @@
                 <div class="card-body">
 
                     <a data-fslightbox href="<?php echo RUTA_URL;?>/img/prod_congelados.jpg">
-                        <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/congelados.jpg" class="img-fluid">
+                        <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/prod_congelados.jpg" class="img-fluid">
                     </a>
             
                 </div>
