@@ -44,7 +44,7 @@
 
                 <div class="card-body">
                     <a data-fslightbox href="<?php echo RUTA_URL;?>/img/prod_frescos.jpg">
-                        <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/prod_frescos.jpg" class="img-fluid">
+                        <img style="border: 3px solid #B88F23; border-radius:2px;" alt="Productos Frescos" src="<?php echo RUTA_URL;?>/img/prod_frescos.jpg" class="img-fluid">
                     </a>
             
                 </div>
@@ -73,7 +73,7 @@
                 <div class="card-body">
 
                     <a data-fslightbox href="<?php echo RUTA_URL;?>/img/prod_congelados.jpg">
-                        <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/prod_congelados.jpg" class="img-fluid">
+                        <img style="border: 3px solid #B88F23; border-radius:2px;" alt="Productos Congelados" src="<?php echo RUTA_URL;?>/img/prod_congelados.jpg" class="img-fluid">
                     </a>
             
                 </div>
@@ -109,7 +109,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/ic_calidad.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/img/ic_calidad.png" alt="Icono de Calidad" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Calidad Inigualable</h4>
 
@@ -128,7 +128,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/ic_normativa.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/img/ic_normativa.png" alt="Icono de Normativa" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Cumplimiento Normativo</h4>
 
@@ -150,7 +150,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/ic_variedad.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/img/ic_variedad.png" alt="Icono de Variedad" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Variedad de Productos</h4>
 
@@ -169,7 +169,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/ic_sostenibilidad.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/img/ic_sostenibilidad.png" alt="Icono de Sostenibilidad" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Sostenibilidad</h4>
 
@@ -197,7 +197,7 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-12 text-center mt-3 mb-3">
 
-            <img src="<?php echo RUTA_URL;?>/img/caja_presentacion.jpg" width="80%" class="img-fluid">                
+            <img src="<?php echo RUTA_URL;?>/img/caja_presentacion.jpg" alt="Caja de Presentacion" width="80%" class="img-fluid">                
 
         </div>
 
