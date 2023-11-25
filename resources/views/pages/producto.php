@@ -109,7 +109,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/calidad.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/img/ic_calidad.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Calidad Inigualable</h4>
 
@@ -128,7 +128,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/normativa.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/img/ic_normativa.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Cumplimiento Normativo</h4>
 
@@ -150,7 +150,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/variedad.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/img/ic_variedad.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Variedad de Productos</h4>
 
@@ -169,7 +169,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/sostenibilidad.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/img/ic_sostenibilidad.png" alt="" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Sostenibilidad</h4>
 
