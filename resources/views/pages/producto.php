@@ -217,16 +217,16 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 text-center mt-3 mb-3">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/prod_presentacion_1.jpg">
-                <img alt="Caja de Presentacion 1" src="<?php echo RUTA_URL;?>/img/prod_presentacion_1.jpg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/caja_presentacion_1.jpg">
+                <img alt="Caja de Presentacion 1" src="<?php echo RUTA_URL;?>/img/caja_presentacion_1.jpg" class="img-fluid">
             </a>               
 
         </div>
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 text-center mt-3 mb-3">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/prod_presentacion_2.jpg">
-                <img alt="Caja de Presentacion 2" src="<?php echo RUTA_URL;?>/img/prod_presentacion_2.jpg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/caja_presentacion_2.jpg">
+                <img alt="Caja de Presentacion 2" src="<?php echo RUTA_URL;?>/img/caja_presentacion_2.jpg" class="img-fluid">
             </a>               
 
         </div>
