@@ -73,7 +73,7 @@
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
             <video style="border: 3px solid #B88F23; border-radius:2px;" width="100%" muted loop autoplay controls>
-                <source src="<?php echo RUTA_URL;?>/img/video_instalaciones_2.mp4" type="video/mp4">
+                <source src="<?php echo RUTA_URL;?>/videos/video_instalaciones_2.mp4" type="video/mp4">
                 Tu navegador no soporta el video.
             </video>
         </div>
@@ -85,7 +85,7 @@
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
             <video style="border: 3px solid #B88F23; border-radius:2px;" width="100%" muted loop autoplay controls>
-                <source src="<?php echo RUTA_URL;?>/img/video_instalaciones.mp4" type="video/mp4">
+                <source src="<?php echo RUTA_URL;?>/videos/video_instalaciones.mp4" type="video/mp4">
                 Tu navegador no soporta el video.
             </video>
         </div>

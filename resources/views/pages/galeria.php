@@ -32,8 +32,8 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 text-center mt-3 mb-3">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/publicidad.jpg">
-                <img alt="Publicidad" src="<?php echo RUTA_URL;?>/img/publicidad.jpg" width="70%"  class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/anuncio.jpg">
+                <img alt="Publicidad" src="<?php echo RUTA_URL;?>/img/anuncio.jpg" width="70%"  class="img-fluid">
             </a>               
 
         </div>
