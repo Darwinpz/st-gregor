@@ -24,7 +24,7 @@
                     </div>
                     <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="<?php echo RUTA_URL;?>/images/galeria/galeria_2.jpg" alt="Imagen 1">
+                        <img class="d-block w-100" src="<?php echo RUTA_URL;?>/images/galeria/galeria_2.jpeg" alt="Imagen 1">
                         </div>
                         <div class="carousel-item">
                         <img class="d-block w-100"  src="<?php echo RUTA_URL;?>/images/galeria/galeria_4.jpg" alt="Imagen 2">

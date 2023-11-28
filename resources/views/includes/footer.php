@@ -8,7 +8,8 @@
                     <a href="#">
                         <img src="<?php echo RUTA_URL;?>/images/logo.png" alt="" width="180" height="80" class="d-inline-block align-text-top">
                     </a>
-                    <p class="mb-1"><i class="fas fa-home mt-3"></i> Machala, Ecuador</p>
+                    <a style="text-decoration:none;margin-left:-15px; "class="nav-link active" href="https://www.instagram.com/st.gregor_ec/" target="_blank"><i class="fa-brands fa-instagram"></i> <b>@st.gregor_ec</b></a>
+                    <p class="mb-1"><i class="fas fa-home"></i> Machala, Ecuador</p>
                     <p class="mb-1"><i class="fas fa-home"></i> Tumbes, Perú</p>
                     
                     <p class="mb-1"><i class="fas fa-envelope"></i> ventas@st-gregor.com</p>
