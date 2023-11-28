@@ -42,16 +42,16 @@
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="img-fluid" src="<?php echo RUTA_URL;?>/img/instalacion_1.jpg" alt="Imagen 1">
+                        <img class="img-fluid" src="<?php echo RUTA_URL;?>/images/instalacion_1.jpg" alt="Imagen 1">
                     </div>
                     <div class="carousel-item">
-                        <img class="img-fluid"  src="<?php echo RUTA_URL;?>/img/instalacion_2.jpg" alt="Imagen 2">
+                        <img class="img-fluid"  src="<?php echo RUTA_URL;?>/images/instalacion_2.jpg" alt="Imagen 2">
                     </div>
                     <div class="carousel-item">
-                        <img class="img-fluid"  src="<?php echo RUTA_URL;?>/img/instalacion_3.jpg" alt="Imagen 3">
+                        <img class="img-fluid"  src="<?php echo RUTA_URL;?>/images/instalacion_3.jpg" alt="Imagen 3">
                     </div>
                     <div class="carousel-item">
-                        <img class="img-fluid"  src="<?php echo RUTA_URL;?>/img/instalacion_7.jpeg" alt="Imagen 4">
+                        <img class="img-fluid"  src="<?php echo RUTA_URL;?>/images/instalacion_7.jpeg" alt="Imagen 4">
                     </div>
                 </div>
                 <button class="carousel-control-prev" type="button" data-bs-target="#carouselIndicators" data-bs-slide="prev">
@@ -105,16 +105,16 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/instalacion_4.jpg">
-                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/instalacion_4.jpg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/images/instalacion_4.jpg">
+                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/images/instalacion_4.jpg" class="img-fluid">
             </a>
                 
         </div>
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/instalacion_5.jpg">
-                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/instalacion_5.jpg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/images/instalacion_5.jpg">
+                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/images/instalacion_5.jpg" class="img-fluid">
             </a>
                 
         </div>

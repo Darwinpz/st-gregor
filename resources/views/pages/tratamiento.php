@@ -45,8 +45,8 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-12 text-center mt-2 mb-3">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/tratamiento.jpg">
-                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/tratamiento.jpg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/images/tratamiento.jpg">
+                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/images/tratamiento.jpg" class="img-fluid">
             </a>
 
         </div>
@@ -147,8 +147,8 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_33.jpg">
-                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_33.jpg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/images/galeria/galeria_33.jpg">
+                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/images/galeria/galeria_33.jpg" class="img-fluid">
             </a>
 
         </div>
@@ -159,8 +159,8 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_20.jpeg">
-                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_20.jpeg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/images/galeria/galeria_20.jpeg">
+                <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/images/galeria/galeria_20.jpeg" class="img-fluid">
             </a>
 
         </div>

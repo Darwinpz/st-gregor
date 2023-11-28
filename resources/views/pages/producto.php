@@ -43,8 +43,8 @@
                 </div>
 
                 <div class="card-body">
-                    <a data-fslightbox href="<?php echo RUTA_URL;?>/img/prod_frescos.jpg">
-                        <img style="border: 3px solid #B88F23; border-radius:2px;" alt="Productos Frescos" src="<?php echo RUTA_URL;?>/img/prod_frescos.jpg" class="img-fluid">
+                    <a data-fslightbox href="<?php echo RUTA_URL;?>/images/prod_frescos.jpg">
+                        <img style="border: 3px solid #B88F23; border-radius:2px;" alt="Productos Frescos" src="<?php echo RUTA_URL;?>/images/prod_frescos.jpg" class="img-fluid">
                     </a>
             
                 </div>
@@ -72,8 +72,8 @@
 
                 <div class="card-body">
 
-                    <a data-fslightbox href="<?php echo RUTA_URL;?>/img/prod_congelados.jpg">
-                        <img style="border: 3px solid #B88F23; border-radius:2px;" alt="Productos Congelados" src="<?php echo RUTA_URL;?>/img/prod_congelados.jpg" class="img-fluid">
+                    <a data-fslightbox href="<?php echo RUTA_URL;?>/images/prod_congelados.jpg">
+                        <img style="border: 3px solid #B88F23; border-radius:2px;" alt="Productos Congelados" src="<?php echo RUTA_URL;?>/images/prod_congelados.jpg" class="img-fluid">
                     </a>
             
                 </div>
@@ -109,7 +109,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/ic_calidad.png" alt="Icono de Calidad" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/images/ic_calidad.png" alt="Icono de Calidad" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Calidad Inigualable</h4>
 
@@ -128,7 +128,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/ic_normativa.png" alt="Icono de Normativa" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/images/ic_normativa.png" alt="Icono de Normativa" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Cumplimiento Normativo</h4>
 
@@ -150,7 +150,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/ic_variedad.png" alt="Icono de Variedad" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/images/ic_variedad.png" alt="Icono de Variedad" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Variedad de Productos</h4>
 
@@ -169,7 +169,7 @@
 
                 <div class="card-body">
 
-                    <img src="<?php echo RUTA_URL;?>/img/ic_sostenibilidad.png" alt="Icono de Sostenibilidad" width="80" height="80" class="d-inline-block align-text-top">                
+                    <img src="<?php echo RUTA_URL;?>/images/ic_sostenibilidad.png" alt="Icono de Sostenibilidad" width="80" height="80" class="d-inline-block align-text-top">                
 
                     <h4>Sostenibilidad</h4>
 
@@ -197,16 +197,16 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 text-center mt-3 mb-3">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/caja_presentacion.jpg">
-                <img alt="Caja de Presentacion" src="<?php echo RUTA_URL;?>/img/caja_presentacion.jpg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/images/caja_presentacion.jpg">
+                <img alt="Caja de Presentacion" src="<?php echo RUTA_URL;?>/images/caja_presentacion.jpg" class="img-fluid">
             </a>               
 
         </div>
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 text-center mt-3 mb-3">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/anuncio.jpg">
-                <img alt="Publicidad" src="<?php echo RUTA_URL;?>/img/anuncio.jpg" width="70%"  class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/images/anuncio.jpg">
+                <img alt="Publicidad" src="<?php echo RUTA_URL;?>/images/anuncio.jpg" width="70%"  class="img-fluid">
             </a>               
 
         </div>
@@ -217,16 +217,16 @@
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 text-center mt-3 mb-3">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/caja_presentacion_1.jpg">
-                <img alt="Caja de Presentacion 1" src="<?php echo RUTA_URL;?>/img/caja_presentacion_1.jpg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/images/caja_presentacion_1.jpg">
+                <img alt="Caja de Presentacion 1" src="<?php echo RUTA_URL;?>/images/caja_presentacion_1.jpg" class="img-fluid">
             </a>               
 
         </div>
 
         <div class="col col-12 col-sm-12 col-md-12 col-lg-6 text-center mt-3 mb-3">
 
-            <a data-fslightbox href="<?php echo RUTA_URL;?>/img/caja_presentacion_2.jpg">
-                <img alt="Caja de Presentacion 2" src="<?php echo RUTA_URL;?>/img/caja_presentacion_2.jpg" class="img-fluid">
+            <a data-fslightbox href="<?php echo RUTA_URL;?>/images/caja_presentacion_2.jpg">
+                <img alt="Caja de Presentacion 2" src="<?php echo RUTA_URL;?>/images/caja_presentacion_2.jpg" class="img-fluid">
             </a>               
 
         </div>

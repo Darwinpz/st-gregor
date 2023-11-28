@@ -17,7 +17,7 @@
     
     <link rel="stylesheet" href="<?php echo RUTA_URL;?>/css/index.css" />
 
-    <link rel="icon" type="image/x-icon" href="<?php echo RUTA_URL;?>/img/logo.png"">
+    <link rel="icon" type="image/x-icon" href="<?php echo RUTA_URL;?>/images/logo.png"">
     
 </head>
 <body>
@@ -25,7 +25,7 @@
     <nav class="navbar sticky-top navbar-expand-lg navbar-light" style="background-color:#efefef;">
         <div class="container">
             <a class="navbar-brand" href="<?php echo RUTA_URL;?>">
-                <img src="<?php echo RUTA_URL;?>/img/logo.png" alt="" width="180" height="80" class="d-inline-block align-text-top">
+                <img src="<?php echo RUTA_URL;?>/images/logo.png" alt="" width="180" height="80" class="d-inline-block align-text-top">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

@@ -26,8 +26,8 @@
 
             <div class="card" style="border-color:#B88F23;border-width:medium;">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/recetas/recetas_ajillo.jpg">
-                    <img class="card-img-top" src="<?php echo RUTA_URL;?>/img/recetas/recetas_ajillo.jpg" class="img-fluid">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/images/recetas/recetas_ajillo.jpg">
+                    <img class="card-img-top" src="<?php echo RUTA_URL;?>/images/recetas/recetas_ajillo.jpg" class="img-fluid">
                 </a>
 
                 <div class="card-body">
@@ -53,8 +53,8 @@
 
             <div class="card" style="border-color:#B88F23;border-width:medium;">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/recetas/recetas_ceviche.jpg">
-                    <img src="<?php echo RUTA_URL;?>/img/recetas/recetas_ceviche.jpg"  class="img-fluid">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/images/recetas/recetas_ceviche.jpg">
+                    <img src="<?php echo RUTA_URL;?>/images/recetas/recetas_ceviche.jpg"  class="img-fluid">
                 </a>
 
                 <div class="card-body">
@@ -78,8 +78,8 @@
 
             <div class="card" style="border-color:#B88F23;border-width:medium;">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/recetas/recetas_reventados.jpg">
-                    <img src="<?php echo RUTA_URL;?>/img/recetas/recetas_reventados.jpg" class="img-fluid">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/images/recetas/recetas_reventados.jpg">
+                    <img src="<?php echo RUTA_URL;?>/images/recetas/recetas_reventados.jpg" class="img-fluid">
                 </a>
 
                 <div class="card-body">
@@ -109,8 +109,8 @@
 
             <div class="card" style="border-color:#B88F23;border-width:medium;">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/recetas/recetas_tallarines.jpg">
-                    <img src="<?php echo RUTA_URL;?>/img/recetas/recetas_tallarines.jpg" class="img-fluid">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/images/recetas/recetas_tallarines.jpg">
+                    <img src="<?php echo RUTA_URL;?>/images/recetas/recetas_tallarines.jpg" class="img-fluid">
                 </a>
 
                 <div class="card-body">
@@ -139,8 +139,8 @@
 
             <div class="card" style="border-color:#B88F23;border-width:medium;">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/recetas/recetas_apanados.jpg">
-                    <img src="<?php echo RUTA_URL;?>/img/recetas/recetas_apanados.jpg" class="img-fluid">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/images/recetas/recetas_apanados.jpg">
+                    <img src="<?php echo RUTA_URL;?>/images/recetas/recetas_apanados.jpg" class="img-fluid">
                 </a>
 
                 <div class="card-body">

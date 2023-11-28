@@ -24,10 +24,10 @@
                     </div>
                     <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="<?php echo RUTA_URL;?>/img/galeria/galeria_2.jpg" alt="Imagen 1">
+                        <img class="d-block w-100" src="<?php echo RUTA_URL;?>/images/galeria/galeria_2.jpg" alt="Imagen 1">
                         </div>
                         <div class="carousel-item">
-                        <img class="d-block w-100"  src="<?php echo RUTA_URL;?>/img/galeria/galeria_4.jpg" alt="Imagen 2">
+                        <img class="d-block w-100"  src="<?php echo RUTA_URL;?>/images/galeria/galeria_4.jpg" alt="Imagen 2">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselIndicators" data-bs-slide="prev">
@@ -52,7 +52,7 @@
 
                         <div class="card d-grid align-items-center" style="border-color:#B88F23;border-width:medium;">
 
-                            <a href="<?php echo RUTA_URL;?>/producto"><img src="<?php echo RUTA_URL;?>/img/producto.jpg" alt="Producto" class="img-fluid">
+                            <a href="<?php echo RUTA_URL;?>/producto"><img src="<?php echo RUTA_URL;?>/images/producto.jpg" alt="Producto" class="img-fluid">
                             <div class="carousel-caption" style="text-shadow:0 0 0.2em black, 0 0 0.2em black, 0 0 0.2em black;">
                                 <h5>Producto</h5>
                                 <p>Identifica nuestro producto</p>
@@ -66,7 +66,7 @@
 
                         <div class="card" style="border-color:#B88F23;border-width:medium;">
 
-                            <a href="<?php echo RUTA_URL;?>/instalaciones"><img src="<?php echo RUTA_URL;?>/img/instalaciones.jpg" alt="Instalaciones" class="img-fluid">
+                            <a href="<?php echo RUTA_URL;?>/instalaciones"><img src="<?php echo RUTA_URL;?>/images/instalaciones.jpg" alt="Instalaciones" class="img-fluid">
                             <div class="carousel-caption" style="text-shadow:0 0 0.2em black, 0 0 0.2em black, 0 0 0.2em black;">
                                 <h5>Instalaciones</h5>
                                 <p>Explora nuestras instalaciones</p>
@@ -80,7 +80,7 @@
 
                         <div class="card" style="border-color:#B88F23;border-width:medium;">
 
-                            <a href="<?php echo RUTA_URL;?>/tratamiento"><img src="<?php echo RUTA_URL;?>/img/tratamiento.jpg" alt="Tratamiento" class="img-fluid">
+                            <a href="<?php echo RUTA_URL;?>/tratamiento"><img src="<?php echo RUTA_URL;?>/images/tratamiento.jpg" alt="Tratamiento" class="img-fluid">
                             <div class="carousel-caption" style="text-shadow:0 0 0.2em black, 0 0 0.2em black, 0 0 0.2em black;">
                                 <h5>Tratamiento</h5>
                                 <p>Conoce el tratamiento del producto</p>
@@ -116,8 +116,8 @@
 
             <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_21.jpg">
-                    <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_21.jpg" class="img-fluid">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/images/galeria/galeria_21.jpg">
+                    <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/images/galeria/galeria_21.jpg" class="img-fluid">
                 </a>
                 
             </div>
@@ -162,8 +162,8 @@
 
             <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_33.jpg">
-                    <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_33.jpg" class="img-fluid">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/images/galeria/galeria_33.jpg">
+                    <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/images/galeria/galeria_33.jpg" class="img-fluid">
                 </a>
             </div>
 
@@ -173,8 +173,8 @@
 
             <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_9.jpg">
-                    <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_9.jpg" class="img-fluid">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/images/galeria/galeria_9.jpg">
+                    <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/images/galeria/galeria_9.jpg" class="img-fluid">
                 </a>
             </div>
 
@@ -216,8 +216,8 @@
 
             <div class="col col-12 col-sm-12 col-md-12 col-lg-6 d-flex align-items-center justify-content-center mb-2">
 
-                <a data-fslightbox href="<?php echo RUTA_URL;?>/img/galeria/galeria_8.jpg">
-                    <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/img/galeria/galeria_8.jpg" class="img-fluid">
+                <a data-fslightbox href="<?php echo RUTA_URL;?>/images/galeria/galeria_8.jpg">
+                    <img style="border: 3px solid #B88F23; border-radius:2px;" src="<?php echo RUTA_URL;?>/images/galeria/galeria_8.jpg" class="img-fluid">
                 </a>
             </div>
 
