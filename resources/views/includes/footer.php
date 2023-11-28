@@ -9,7 +9,10 @@
                         <img src="<?php echo RUTA_URL;?>/img/logo.png" alt="" width="180" height="80" class="d-inline-block align-text-top">
                     </a>
                     <p class="mb-1"><i class="fas fa-home mt-3"></i> Machala, Ecuador</p>
-                    <p><i class="fas fa-envelope"></i> ventas@st-gregor.com</p>
+                    
+                    <p class="mb-1"><i class="fas fa-envelope"></i> ventas@st-gregor.com</p>
+                    <p class="mb-1"><i class="fas fa-envelope"></i> RC@st-gregor.com - PR@st-gregor.com - ES@st-gregor.com</p>
+
                 </div>
             </div>
         </div>
